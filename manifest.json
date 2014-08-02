@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "Indigo 91.1 Songs Scraper",
+  "description": "Indigo 91.9 Songs Scraper",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "http://indigo919.in/"
+  ]
+}
