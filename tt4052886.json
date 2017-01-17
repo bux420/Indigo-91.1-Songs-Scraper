@@ -1,0 +1,727 @@
+{
+__v: 0,
+_id: "tt4052886",
+air_day: "Monday",
+air_time: "21:00",
+country: "us",
+images: {
+banner: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png",
+fanart: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png",
+poster: "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MTU0NzE1OF5BMl5BanBnXkFtZTgwODI3NDc0OTE@._V1_SX300.jpg"
+},
+imdb_id: "tt4052886",
+last_updated: 1484626246625,
+network: "FOX (US)",
+num_seasons: 2,
+rating: {
+percentage: 82.6623,
+votes: 2618,
+loved: 100,
+hated: 100
+},
+runtime: "45",
+slug: "lucifer",
+status: "returning series",
+synopsis: "LUCIFER is the charming, charismatic and handsome-as-hell original fallen angel, who, bored and unhappy in Hell, takes refuge in Los Angeles, where he uses his gift of persuasion to punish bad guys. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+title: "Lucifer",
+tvdb_id: "295685",
+year: "2016",
+episodes: [
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:fe7fd2d82ad2abce4e17fbae550c7ea6bb48e3af&dn=Lucifer.S01E01.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:fe7fd2d82ad2abce4e17fbae550c7ea6bb48e3af&dn=Lucifer.S01E01.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:efc77a8afe4367ca0e6c7088a16b3f0fc9830d3d&dn=Lucifer.S01E01.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1453773600,
+date_based: false,
+overview: "Upon leaving hell, Lucifer Morningstar retreats to Los Angeles for a more exciting life. When the murder of a friend connects him with LAPD detective Chloe Decker, Lucifer becomes intrigued with the idea of punishing criminals, sending the devil himself into a struggle between good and evil.",
+title: "Pilot",
+episode: 1,
+season: 1,
+tvdb_id: 5302887
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:93a7683cde218b33e18b580a4bf3adf6dee6cafc&dn=Lucifer.S01E02.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:2a2354fc1ab539bf4798e3f63f3c6cf98551fa0a&dn=Lucifer.S01E02.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:93a7683cde218b33e18b580a4bf3adf6dee6cafc&dn=Lucifer.S01E02.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1454378400,
+date_based: false,
+overview: "When a movie star's son is killed after being chased by the paparazzi, Chloe takes a deep look into the case with a little help from Lucifer. Meanwhile, Maze and Amenadiel continue to encourage Lucifer to go back to hell.",
+title: "Lucifer, Stay. Good Devil.",
+episode: 2,
+season: 1,
+tvdb_id: 5302888
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:a6626e6eee0b9198f685f355ffcabf3577fd222b&dn=Lucifer.S01E03.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:a6626e6eee0b9198f685f355ffcabf3577fd222b&dn=Lucifer.S01E03.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:bc6a8fef8e4d6aaf4e59e0c1f1d64112578f457d&dn=Lucifer.S01E03.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1454983200,
+date_based: false,
+overview: "When a 22-year-old future superstar quarterback wakes up to find a dead girl floating in his swimming pool, he turns to his friend, Lucifer, for help. Lucifer enlists Chloe to investigate the case, which leads to the world of big money sports and people who will literally kill to be number one.",
+title: "The Would-Be Prince of Darkness",
+episode: 3,
+season: 1,
+tvdb_id: 5309786
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:9496b793c55deb3ebc75c13a1735f7c46bf90aaf&dn=Lucifer.S01E04.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:9496b793c55deb3ebc75c13a1735f7c46bf90aaf&dn=Lucifer.S01E04.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:3c534d084a151887266150becd465e680f43b4ae&dn=Lucifer.S01E04.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1455588000,
+date_based: false,
+overview: "In an effort to get over his infatuation with Chloe, Lucifer decides that he must seduce her. Meanwhile the two team up on a missing girl case and Amenadiel confronts Maze about his concerns about Lucifer.",
+title: "Manly Whatnots",
+episode: 4,
+season: 1,
+tvdb_id: 5323606
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:a9bba62434da1fe13bf0990581c58d3993a7d804&dn=Lucifer.S01E05.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:a9bba62434da1fe13bf0990581c58d3993a7d804&dn=Lucifer.S01E05.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:8073bcbfc5e2aea7fb4cf8321238143ee9215d06&dn=Lucifer.S01E05.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1456192800,
+date_based: false,
+overview: "After a shooting occurs at a fashion show and a young woman is killed, Lucifer becomes intrigued by the danger of the situation and begs Chloe to get in on the case. Meanwhile, when Maze admits to Amenadiel that she wants to go back to hell, he sets his sights on Dr. Linda.",
+title: "Sweet Kicks",
+episode: 5,
+season: 1,
+tvdb_id: 5503431
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:bd19ab00ec2e6a7e9bf45146f06eb8467b239d58&dn=Lucifer.S01E06.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:bd19ab00ec2e6a7e9bf45146f06eb8467b239d58&dn=Lucifer.S01E06.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:7bdd7ddfca9745835c0f1348768ba64895fda40b&dn=Lucifer.S01E06.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1456797600,
+date_based: false,
+overview: "Lucifer bails on Chloe when he becomes bored with her investigation into a ruthless biker gang murder. However, when he discovers something was stolen during the crime that was very personal to him, he demands that Chloe let him rejoin the case.",
+title: "Favorite Son",
+episode: 6,
+season: 1,
+tvdb_id: 5511102
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:a98c4b646f395688e3de7dee943572e213d6e2ec&dn=Lucifer.S01E07.HDTV.x264-KILLERS%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:14075f219cf355fa81b943d0d8119313475ca35b&dn=Lucifer.S01E07.720p.HDTV.x264-KILLERS%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:a98c4b646f395688e3de7dee943572e213d6e2ec&dn=Lucifer.S01E07.HDTV.x264-KILLERS%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1457402400,
+date_based: false,
+overview: "In attempt to find the contents of his stolen container, Lucifer enlists the help of an unlikely ally. Meanwhile, Chloe digs deeper into the Palmetto case, uncovering a lead that might finally expose the truth.",
+title: "Wingman",
+episode: 7,
+season: 1,
+tvdb_id: 5520714
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:f62612dd7a95c0405085ecca99defbd69cff8927&dn=Lucifer.S01E08.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:f62612dd7a95c0405085ecca99defbd69cff8927&dn=Lucifer.S01E08.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:ae603f9906898153e1c38f7aa04f8697827815bd&dn=Lucifer.S01E08.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1458003600,
+date_based: false,
+overview: "When a therapist is murdered, Lucifer and Chloe enlist the help of Dr. Linda to look into possible suspects. Meanwhile, Malcolm confronts Chloe about the night he was shot, and Lucifer experiences his first bout of jealousy.",
+title: "Et Tu, Doctor?",
+episode: 8,
+season: 1,
+tvdb_id: 5531464
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:4bc81773bbf123f92d19f9f194a87f9d148172e1&dn=Lucifer.S01E09.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:4bc81773bbf123f92d19f9f194a87f9d148172e1&dn=Lucifer.S01E09.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:65383b9158be18caa5e4ed33fd78bf6da483c630&dn=Lucifer.S01E09.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1458608400,
+date_based: false,
+overview: "A priest seeks out Lucifer's help when he suspects an underground drug operation has set up shop at a neighborhood youth center. Meanwhile, Malcolm manipulates a way to keep an eye on Dan.",
+title: "A Priest Walks into a Bar",
+episode: 9,
+season: 1,
+tvdb_id: 5540014
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:568becc9504d705fcd7878497c7941285e155edf&dn=Lucifer.S01E10.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:568becc9504d705fcd7878497c7941285e155edf&dn=Lucifer.S01E10.HDTV.x264-LOL%5Beztv%5D.mp4%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:7f9d8cd1483a45b1d04464da4bc27db3a67e0522&dn=Lucifer.S01E10.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1459213200,
+date_based: false,
+overview: "Lucifer and Chloe are tasked with solving the murder of a prominent restaurateur. When they meet his son, they suspect he played a part in the death. Meanwhile, Chloe's mom returns home, sending Chloe's life into upheaval, as Lucifer learns his own dysfunctional family isn't nearly as unique as he thought.",
+title: "Pops",
+episode: 10,
+season: 1,
+tvdb_id: 5544439
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:b9ea7f6ea40131faffef73fd4600080e356430ea&dn=Lucifer.S01E11.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:b9ea7f6ea40131faffef73fd4600080e356430ea&dn=Lucifer.S01E11.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:d5c8f1e3c3e2d713863602eebe7725f5bf8ea265&dn=Lucifer.S01E11.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1460422800,
+date_based: false,
+overview: "When philanthropist Tim Dunlear is found dead, Lucifer explores his good side by becoming a benefactor for Tim's glitzy Los Angeles charity.",
+title: "St. Lucifer",
+episode: 11,
+season: 1,
+tvdb_id: 5562785
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:a0605938c8153b4823d8637794b28df3449de408&dn=Lucifer.S01E12.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:b42b04ee6698f5e7364c32304f4a111db6b3ba46&dn=Lucifer.S01E12.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:a0605938c8153b4823d8637794b28df3449de408&dn=Lucifer.S01E12.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1461027600,
+date_based: false,
+overview: "When a woman is found dead on the Hollywood Walk of Fame – with her body twisted into the shape of a pentagram – the investigation leads Lucifer and team into the world of Satanists, where they soon realize, evil doesn't always live where we expect it to.",
+title: "#TeamLucifer",
+episode: 12,
+season: 1,
+tvdb_id: 5566818
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:4f29556abd16c76d63291f36f92e934bf8a30184&dn=Lucifer.S01E13.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:4f29556abd16c76d63291f36f92e934bf8a30184&dn=Lucifer.S01E13.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:03de26e50b654976e14d8786e076f8b70ee0f0cf&dn=Lucifer.S01E13.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1461632400,
+date_based: false,
+overview: "When Lucifer is framed for murder, he and Chloe must work together to clear his name and prove the identity of the true killer",
+title: "Take Me Back To Hell",
+episode: 13,
+season: 1,
+tvdb_id: 5566819
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:5dbc0026b2d238d014422056c63ba647a096ce78&dn=Lucifer.S02E01.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:5dbc0026b2d238d014422056c63ba647a096ce78&dn=Lucifer.S02E01.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:5a90b4761c22de0f9886f2e84b20d618008da46e&dn=Lucifer.S02E01.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1474333200,
+date_based: false,
+overview: "Lucifer is distracted by his mother’s escape from hell, as he and Chloe investigate the murder of a stand-in actress. Meanwhile, Chloe’s faith in Lucifer is tested by the new medical examiner, Ella. Also, Amenadiel hopes to rein in Lucifer’s wild side, as they both deal with the absence of Maze.",
+title: "Everything's Coming Up Lucifer",
+episode: 1,
+season: 2,
+tvdb_id: 5649957
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:531d2faf1f9bd2653528ffa15c15c43ea36b6b15&dn=Lucifer.S02E02.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:531d2faf1f9bd2653528ffa15c15c43ea36b6b15&dn=Lucifer.S02E02.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:dd4587377bcea20487c3f422f5bc99881c4f52dd&dn=Lucifer.S02E02.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1475542800,
+date_based: false,
+overview: "When Lucifer’s mother, Charlotte, turns up at the scene of a grizzly murder pleading innocence, Lucifer is hesitant to believe her tale. Not wanting to leave her on her own, he instructs Maze to babysit her – and not to torture her, allowing him to investigate the case with Chloe.",
+title: "Liar, Liar, Slutty Dress on Fire",
+episode: 2,
+season: 2,
+tvdb_id: 5662210
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:84c9442c50a60bcd4512c499e6532f19d8356fb0&dn=Lucifer.S02E03.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:84c9442c50a60bcd4512c499e6532f19d8356fb0&dn=Lucifer.S02E03.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:dc4414e2b0dee2a7229bf1692e5a5c2cdceba74d&dn=Lucifer.S02E03.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1476147600,
+date_based: false,
+overview: "Lucifer and Chloe investigate a gruesome murder after a video of the crime surfaces on social media. When a second video appears, they realize they have a serial killer on their hands. Meanwhile, Lucifer’s mom returns as Charlotte Richards. Also, Amenadiel, struggling with his loss of power, has an appointment with Linda.",
+title: "Sin-Eater",
+episode: 3,
+season: 2,
+tvdb_id: 5684178
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:451f22496a07ba14beb239bde695916faad92734&dn=Lucifer.S02E04.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:451f22496a07ba14beb239bde695916faad92734&dn=Lucifer.S02E04.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:da6e3879ce71753843a512fc732ef7e86ec012f0&dn=Lucifer.S02E04.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1476752400,
+date_based: false,
+overview: "After the bodies of two young L.A. transplants are found poisoned, Chloe and Lucifer hunt for the killer. Upon Maze convincing Chloe to go out for drinks, which the detective perceives as an act of friendship, but is actually part of a bet between Maze and Lucifer, the two make a shocking decision.",
+title: "Lady Parts",
+episode: 4,
+season: 2,
+tvdb_id: 5690390
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:d0c630c0fef6217dc54ad98f10dd9bda1460d0a2&dn=Lucifer.S02E05.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:d0c630c0fef6217dc54ad98f10dd9bda1460d0a2&dn=Lucifer.S02E05.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1477357200,
+date_based: false,
+overview: "Lucifer is excited to investigate the murder of his favorite action movie hero, Wesley Cabot. Longtime rival Rolf Van Zandt initially is a suspect, but the investigation soon shifts. Meanwhile, Uriel shows up and Amenadiel is forced to come clean about his lost powers. Also, Lucifer and Uriel fight about Chloe and their mother.",
+title: "Weaponizer",
+episode: 5,
+season: 2,
+tvdb_id: 5701943
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:38d01105a89d371cc2db46aa64966a5d59a38e54&dn=Lucifer.S02E06.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:38d01105a89d371cc2db46aa64966a5d59a38e54&dn=Lucifer.S02E06.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:12a9d246afbe7ab4ba616cb1b3c180fb0eff1420&dn=Lucifer.S02E06.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1477962000,
+date_based: false,
+overview: "Guilty and self-destructive, Lucifer clashes with Chloe during an investigation, leading her to team up with Dan instead. Meanwhile, Amenadiel bonds with Charlotte, and Maze takes Trixie trick-or-treating.",
+title: "Monster",
+episode: 6,
+season: 2,
+tvdb_id: 5706000
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:c522170514d74b60321744b31436f97f01329bc0&dn=Lucifer.S02E07.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:c522170514d74b60321744b31436f97f01329bc0&dn=Lucifer.S02E07.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:1493cc3254b3388e63ea9e01923a4ce8d029772e&dn=Lucifer.S02E07.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1478570400,
+date_based: false,
+overview: "When the prisoner convicted of killing Chloe's father is murdered, new evidence suggests he was actually framed. Meanwhile, Maze tries to find a job and Lucifer shadows Dan in order to learn how to be "normal".",
+title: "My Little Monkey",
+episode: 7,
+season: 2,
+tvdb_id: 5714400
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:b0c2756455efc38f0fe3eb7ec2a7ff9414392fd6&dn=Lucifer.S02E08.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:e908ffa8a578bd201b6eec762f3b424c7af96eb7&dn=Lucifer.S02E08.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:b0c2756455efc38f0fe3eb7ec2a7ff9414392fd6&dn=Lucifer.S02E08.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1479175200,
+date_based: false,
+overview: "After discovering that Azrael’s blade has been stolen by a human, Lucifer quickly connects it with a string of violent stabbings revolving around a local yoga studio. While Chloe investigates the murders, Lucifer enlists Ella’s help in locating the sword to stop the carnage.",
+title: "Trip to Stabby Town",
+episode: 8,
+season: 2,
+tvdb_id: 5738210
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:cac456eba2d86dd758c92e4a56a7dcb68688b302&dn=Lucifer.S02E09.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:cac456eba2d86dd758c92e4a56a7dcb68688b302&dn=Lucifer.S02E09.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:daeee6270f13b1cbd4d8f828986d036cf0c7e22e&dn=Lucifer.S02E09.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1479780000,
+date_based: false,
+overview: "Following the murder of the owner of the building in which Lux is located, Lucifer and Chloe search for the killer, while Lucifer also deals with the fact that the new owner wants to evict him and demolish the place. Lucifer goes to great lengths to protect his home, and is entirely shocked when Chloe is supportive of him. Meanwhile, Maze and Amenadiel follow Charlotte around, as she comes up with a plan to upset Lucifer enough to want to leave earth and go back to Heaven.",
+title: "Homewrecker",
+episode: 9,
+season: 2,
+tvdb_id: 5773090
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:564911a2319111f7b4aa860b6fbd4c1a40cb8f07&dn=Lucifer.S02E10.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:564911a2319111f7b4aa860b6fbd4c1a40cb8f07&dn=Lucifer.S02E10.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:d22b6fdc706c6e8e433f452c5ba1c136517c6567&dn=Lucifer.S02E10.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1480384800,
+date_based: false,
+overview: "Charlotte is determined to get Lucifer to leave Earth by turning Chloe against him. Meanwhile, Amenadiel has begun working as Charlotte's soldier, which makes Maze question his loyalty.",
+title: "Quid Pro Ho",
+episode: 10,
+season: 2,
+tvdb_id: 5773091
+},
+{
+torrents: {
+0: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:32e3247ecb700cb01155b785dd0babc66cca6e42&dn=Lucifer.S02E11.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+480p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:32e3247ecb700cb01155b785dd0babc66cca6e42&dn=Lucifer.S02E11.HDTV.x264-LOL%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+},
+720p: {
+peers: 0,
+seeds: 0,
+url: "magnet:?xt=urn:btih:81c36e64fbd659a0190ffa38d9cf42e299819c5b&dn=Lucifer.S02E11.720p.HDTV.X264-DIMENSION%5Beztv%5D.mkv%5Beztv%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A80&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+}
+},
+watched: {
+watched: false
+},
+first_aired: 1484618400,
+date_based: false,
+overview: "After Lucifer and Chloe have an interrupted "moment," the tension between the two of them makes it difficult to investigate the murder of two victims, who happen to be Lucifer's ex-flames. Since Lucifer seems to be the only connection, interviews are conducted with his recent paramours and a surprising connection is made that helps lead them to the killer. Meanwhile, Charlotte continues to try and manipulate Chloe and Lucifer's impending romance and a larger threat is revealed.",
+title: "Stewardess Interruptus",
+episode: 11,
+season: 2,
+tvdb_id: 5812928
+}
+],
+genres: [
+"crime",
+"fantasy",
+"science-fiction"
+]
+}
